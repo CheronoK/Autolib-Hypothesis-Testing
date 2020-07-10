@@ -9,9 +9,6 @@ Irrelevant columns were then removed
 The columns with null values were also removed.
 Removed all the spaces from the column names and replaced them with underscores. Also removed fullstops on the column names.
 Changed the names of the columns to lower case to make work easier while writing code.
-# Constructing and exporting new data
-New columns needed for he analysis were constructed.
-The new cleaned data was also exported as a csv file.
 # Analysis
 Univariate and Bivariate analysis was performed on the data
 A sample was chosen from the data which was then used for the hypothesis testing.
