@@ -1,5 +1,5 @@
 # Hypothesis-Testing
-This repository contains week 4 independent project in which we were to perform HYpothesis testing on data provided from a car sharing company.
+This repository contains week 4 independent project in which Hypothesis testing was required to be performed on data provided from a car sharing company.
 # Data Analysis
 I started by importing pandas library as it is essential in this analysis.
 The provided data was loaded as a csv file.
